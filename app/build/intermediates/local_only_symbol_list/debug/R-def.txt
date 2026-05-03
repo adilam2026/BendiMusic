@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color accent
+color bg_dark
+color surface
+color text_primary
+color text_secondary
+drawable ic_music_placeholder
+drawable ic_next
+drawable ic_pause
+drawable ic_play
+drawable ic_prev
+id btnNext
+id btnPlayPause
+id btnPrev
+id imgCover
+id miniArtist
+id miniCover
+id miniPlayer
+id miniTitle
+id recyclerView
+id txtAppName
+id txtArtist
+id txtDuration
+id txtStatus
+id txtTitle
+layout activity_main
+layout item_song
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.BendiMusic
